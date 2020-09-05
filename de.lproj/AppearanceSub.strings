@@ -1,14 +1,19 @@
-
-	"BACKGROUND_BLUR" = "Hintergrundunschärfe";
-	"GRABBER" = "Grabber";
-	"BANNER_RADIUS" = "Banner Radius";
-	"ICON_RADIUS" = "Iconradius";
-	"ICON_SIZE" = "Icongröße";
-	"TIME_TO_DISMISS" = "Anzeigedauer";
-	"TOP_OFFSET" = "Oberer Versatz";
-	"STATUSBAR_SETTINGS" = "Statusleisteneinstellungen";
-	"SHOW_STATUSBAR" = "Zeige Statusleiste";
-	"24_H_CLOCK" = "24h Uhr";
-	"BUTTON_SETTINGS" = "Schaltflächeneinstellungen";
-	"SHOW_BUTTONS" = "Schaltflächen anzeigen";
-	"BOLD_BUTTON_TEXT" = "Fetter Schaltflächentext";
+"BACKGROUND_BLUR" = "Hintergrundunschärfe";
+"GRABBER" = "Grabber";
+"BANNER_RADIUS" = "Banner Radius";
+"ICON_RADIUS" = "Iconradius";
+"ICON_SIZE" = "Icongröße";
+"TIME_TO_DISMISS" = "Anzeigedauer";
+"TOP_OFFSET" = "Oberer Versatz";
+"STATUSBAR_SETTINGS" = "Statusleisteneinstellungen";
+"SHOW_STATUSBAR" = "Zeige Statusleiste";
+"24_H_CLOCK" = "24h Uhr";
+"BUTTON_SETTINGS" = "Schaltflächeneinstellungen";
+"SHOW_BUTTONS" = "Schaltflächen anzeigen";
+"BOLD_BUTTON_TEXT" = "Fetter Schaltflächentext";
+"TEXT_NATIVE" = "nativ";
+"TEXT_LEFT" = "links";
+"TEXT_CENTER" = "zentriert";
+"TEXT_RIGHT" = "rechts";
+	//New settings
+"TEXT_ALIGNMENT" = "Text Ausrichtung";
