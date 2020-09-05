@@ -1,8 +1,7 @@
-{
+
 	"SHOW_PROFILE_PICTURE" = "顯示應用圖標";
 	"SHOW_ICON_ON_PROFILE_PICTURE" = "在個人資料圖片上顯示圖標";
 	"PFP_NONE" = "無";
 	"PFP_GLYPH" = "圖形";
 	"PHP_APP" = "應用程式";
 	"PFP_ENABLE_ON" = "啟用";
-}

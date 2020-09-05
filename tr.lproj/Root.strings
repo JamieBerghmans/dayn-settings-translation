@@ -1,4 +1,4 @@
-{
+
     "ENABLE_RESPRING_REQUIRED" = "Aktif Et ( Respring Gereklidir )";
     "COLOR_AUTO" = "Otomatik";
     "COLOR_DARK" = "Koyu";
@@ -14,4 +14,3 @@
     "TESTBANNER" = "Afiş Testi";
     "DEVELOPERS" = "Geliştiriciler";
     "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
-}

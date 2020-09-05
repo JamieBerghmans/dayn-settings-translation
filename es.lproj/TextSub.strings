@@ -1,6 +1,5 @@
-{
+
     "MAX_LINE_COUNT" = "Cantidad de Líneas máximas";
     "HEADER_FONTSIZE" = "Tamaño de fuente del encabezado";
     "TEXT_FONTSIZE" = "Tamaño de fuente del texto";
     "STATUSBAR_FONTSIZE" = "Tamaño de fuente de la barra de estado";
-}

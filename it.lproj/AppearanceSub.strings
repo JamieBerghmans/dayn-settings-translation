@@ -1,4 +1,4 @@
-{
+
 	"BACKGROUND_BLUR" = "sfocatura dello sfondo";
 	"GRABBER" = "Grabber";
 	"BANNER_RADIUS" = "raggio del banner";
@@ -19,4 +19,3 @@
 	"TEXT_LEFT" = "Sinistra";
 	"TEXT_CENTER" = "Centro";
 	"TEXT_RIGHT" = "Destra";
-}

@@ -1,4 +1,4 @@
-{
+
     "ENABLE_RESPRING_REQUIRED" = "Ativar (requer reiniciar a springboard)";
     "COLOR_AUTO" = "automáticomáticomáticomáticomáticomático";
     "COLOR_DARK" = "escuro";
@@ -14,4 +14,3 @@
     "TESTBANNER" = "Testar banner";
     "DEVELOPERS" = "Desenvolvedores";
     "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
-}

@@ -1,6 +1,5 @@
-{
+
     "MAX_LINE_COUNT" = "Max line count";
     "HEADER_FONTSIZE" = "Header fontsize";
     "TEXT_FONTSIZE" = "Text fontsize";
     "STATUSBAR_FONTSIZE" = "Status bar fontsize";
-}

@@ -1,6 +1,5 @@
-{
+
 	"RESPRING" = "respring";
 	"CONFIRM_RESPRING_PROMPT" = "Naozaj chcete znova respringovať?";
 	"CONFIRM_RESPRING" = "potvrdiť";
 	"CANCEL_RESPRING" = "zrušiť";
-}

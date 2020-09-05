@@ -1,4 +1,4 @@
-{
+
     "ENABLE_RESPRING_REQUIRED" = "Activar (Reinicio rápido requerido)";
     "COLOR_AUTO" = "Auto";
     "COLOR_DARK" = "Oscuro";
@@ -14,4 +14,3 @@
     "TESTBANNER" = "Banner de prueba";
     "DEVELOPERS" = "Desarrolladores";
     "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
-}

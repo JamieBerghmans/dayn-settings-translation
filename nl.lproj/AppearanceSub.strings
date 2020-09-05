@@ -1,4 +1,4 @@
-{
+
 	"BACKGROUND_BLUR" = "Achtergrond vervaging";
 	"GRABBER" = "Grijper";
 	"BANNER_RADIUS" = "Banner straal";
@@ -19,4 +19,3 @@
 	"TEXT_LEFT" = "Links";
 	"TEXT_CENTER" = "Midden";
 	"TEXT_RIGHT" = "Rechts";
-}

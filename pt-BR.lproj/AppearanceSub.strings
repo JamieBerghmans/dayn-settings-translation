@@ -1,4 +1,4 @@
-{
+
 	"BACKGROUND_BLUR" = "Efeito blur do fundo";
 	"GRABBER" = "Agarrador";
 	"BANNER_RADIUS" = "Raio do banner";
@@ -19,4 +19,3 @@
 	"TEXT_LEFT" = "esquerda";
 	"TEXT_CENTER" = "centro";
 	"TEXT_RIGHT" = "direita";
-}

@@ -1,6 +1,5 @@
-{
+
     "MAX_LINE_COUNT" = "maximálny počet riadkov";
     "HEADER_FONTSIZE" = "veľkosť písma hlavičky";
     "TEXT_FONTSIZE" = "veľkosť písma";
     "STATUSBAR_FONTSIZE" = "veľkosť písma v statusbare";
-}

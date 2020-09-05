@@ -1,4 +1,4 @@
-{
+
     "SWITCHES" = "Switchs";
     "HAPIC_FEEDBACK" = "Retour haptique";
     "SEND_READ_RECEIPTS_IN_MESSAGES" = "Envoyer la confirmation de message lu";
@@ -13,4 +13,3 @@
     
     //New settings
 	"HIDE_UNLESS_EXPANDED" = "Masquer tant qu'il n'y a pas d'expansion";
-}

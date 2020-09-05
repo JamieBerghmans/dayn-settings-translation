@@ -1,4 +1,4 @@
-{
+
     "ENABLE_RESPRING_REQUIRED" = "Aanzetten (respring vereist)";
     "COLOR_AUTO" = "Automatisch";
     "COLOR_DARK" = "Donker";
@@ -14,4 +14,3 @@
     "TESTBANNER" = "Testbanner";
     "DEVELOPERS" = "Ontwikkelaars";
     "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
-}

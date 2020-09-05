@@ -1,6 +1,5 @@
-{
+
     "MAX_LINE_COUNT" = "Số dòng tối đa";
     "HEADER_FONTSIZE" = "Kích thước chữ tiêu đề";
     "TEXT_FONTSIZE" = "Kích thước nội dung hiển thị";
     "STATUSBAR_FONTSIZE" = "Kích thước thanh trạng thái";
-}

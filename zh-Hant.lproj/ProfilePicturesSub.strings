@@ -1,8 +1,7 @@
-{
+
 	"SHOW_PROFILE_PICTURE" = "显示个人资料图片";
 	"SHOW_ICON_ON_PROFILE_PICTURE" = "头像上显示图标";
 	"PFP_NONE" = "无";
 	"PFP_GLYPH" = "字形";
 	"PHP_APP" = "应用";
 	"PFP_ENABLE_ON" = "使用在";
-}

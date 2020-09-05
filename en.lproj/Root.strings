@@ -1,4 +1,4 @@
-{
+
     "ENABLE_RESPRING_REQUIRED" = "Enable (respring required)";
     "COLOR_AUTO" = "auto";
     "COLOR_DARK" = "dark";
@@ -14,4 +14,3 @@
     "TESTBANNER" = "Testbanner";
     "DEVELOPERS" = "Developers";
     "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
-}

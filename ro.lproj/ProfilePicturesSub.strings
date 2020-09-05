@@ -1,8 +1,7 @@
-{
+
 	"SHOW_PROFILE_PICTURE" = "Arată poză de profil";
 	"SHOW_ICON_ON_PROFILE_PICTURE" = "Arată pictogramă cu poza de profil";
 	"PFP_NONE" = "nimic";
 	"PFP_GLYPH" = "simbol";
 	"PHP_APP" = "aplicație";
 	"PFP_ENABLE_ON" = "Activează";
-}

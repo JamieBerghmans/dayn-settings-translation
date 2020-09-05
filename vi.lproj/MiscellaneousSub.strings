@@ -1,4 +1,4 @@
-{
+
     "SWITCHES" = "Sự chuyển động *. Tiêu đề của 2 chuyển đổi đầu tiên";
     "HAPIC_FEEDBACK" = "Phản hồi xúc giác";
     "SEND_READ_RECEIPTS_IN_MESSAGES" = "Gửi nội dung đã đọc vào tin nhắn";
@@ -13,4 +13,3 @@
     
     //New settings
 	"HIDE_UNLESS_EXPANDED" = "Ẩn trừ khi được mở rộng";
-}

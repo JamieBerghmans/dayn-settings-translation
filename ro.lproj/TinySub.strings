@@ -1,5 +1,4 @@
-{
+
     "USE_TINY_BANNER" = "Folosește bannere mici";
     "USE_IF_NO_TEXT" = "Folosește daca nu există text";
     "TEXT_FONTSIZE" = "Font text";
-}

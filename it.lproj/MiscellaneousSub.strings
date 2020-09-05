@@ -1,4 +1,4 @@
-{
+
     "SWITCHES" = "interruttori";
     "HAPIC_FEEDBACK" = "feedback tattile";
     "SEND_READ_RECEIPTS_IN_MESSAGES" = "inviare conferme di lettura nei messaggi";
@@ -13,4 +13,3 @@
     
     //New settings
 	"HIDE_UNLESS_EXPANDED" = "Nascondi se non espandi";
-}

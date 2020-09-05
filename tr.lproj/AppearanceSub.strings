@@ -1,4 +1,4 @@
-{
+
 	"BACKGROUND_BLUR" = "Arkaplan Bulanıklığı";
 	"GRABBER" = "Alt Çizgi";
 	"BANNER_RADIUS" = "Afiş Yarıçapı";
@@ -19,4 +19,3 @@
 	"TEXT_LEFT" = "Sol";
 	"TEXT_CENTER" = "Merkez";
 	"TEXT_RIGHT" = "Sağ";
-}

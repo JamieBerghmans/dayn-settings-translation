@@ -1,6 +1,5 @@
-{
+
     "MAX_LINE_COUNT" = "最大行数";
     "HEADER_FONTSIZE" = "标题字体大小";
     "TEXT_FONTSIZE" = "文本字体大小";
     "STATUSBAR_FONTSIZE" = "状态栏字体大小";
-}

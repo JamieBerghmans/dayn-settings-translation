@@ -1,4 +1,4 @@
-{
+
     "SWITCHES" = "Switches";
     "HAPIC_FEEDBACK" = "Haptic Feedback";
     "SEND_READ_RECEIPTS_IN_MESSAGES" = "Send read receipts in messages";
@@ -13,4 +13,3 @@
     
     //New settings
 	"HIDE_UNLESS_EXPANDED" = "Hide unless expanded";
-}

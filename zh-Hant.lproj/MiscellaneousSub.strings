@@ -1,4 +1,4 @@
-{
+
     "SWITCHES" = "开关";
     "HAPIC_FEEDBACK" = "触觉反馈";
     "SEND_READ_RECEIPTS_IN_MESSAGES" = "发送已读回执信息";
@@ -13,4 +13,3 @@
     
     //New settings
 	"HIDE_UNLESS_EXPANDED" = "隐藏， 除非展开";
-}

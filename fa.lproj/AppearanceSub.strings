@@ -1,4 +1,4 @@
-{
+
 	"BACKGROUND_BLUR" = "تیرگی پس زمینه";
 	"GRABBER" = "گرابر";
 	"BANNER_RADIUS" = "شعاع بنر";
@@ -19,4 +19,3 @@
 	"TEXT_LEFT" = "چپ";
 	"TEXT_CENTER" = "مرکز";
 	"TEXT_RIGHT" = "راست";
-}

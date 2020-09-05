@@ -1,4 +1,4 @@
-{
+
     "SWITCHES" = "Anahtarlar";
     "HAPIC_FEEDBACK" = "Titreşim Geri Bildirimi";
     "SEND_READ_RECEIPTS_IN_MESSAGES" = "Mesajları Okundu Olarak İşaretle";
@@ -13,4 +13,3 @@
     
     //New settings
 	"HIDE_UNLESS_EXPANDED" = "Genişletilmediği Sürece Gizle";
-}

@@ -1,5 +1,4 @@
-{
+
     "USE_TINY_BANNER" = "İnce Afişi Kullan";
     "USE_IF_NO_TEXT" = "Eğer Metin Yoksa Kullan";
     "TEXT_FONTSIZE" = "Metin Büyüklüğü";
-}

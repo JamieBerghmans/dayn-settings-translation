@@ -1,6 +1,5 @@
-{
+
     "MAX_LINE_COUNT" = "numero massimo di righe";
     "HEADER_FONTSIZE" = "dimensione del carattere dell'intestazione";
     "TEXT_FONTSIZE" = "dimensione del carattere del testo";
     "STATUSBAR_FONTSIZE" = "dimensione del carattere della barra di stato";
-}

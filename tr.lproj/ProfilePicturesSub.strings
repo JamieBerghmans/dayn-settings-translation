@@ -1,8 +1,7 @@
-{
+
 	"SHOW_PROFILE_PICTURE" = "Profil Fotoğraflarını göster";
 	"SHOW_ICON_ON_PROFILE_PICTURE" = "Profil Fotoğrafları Üzerinde Simgeleri Göster";
 	"PFP_NONE" = "Yok";
 	"PFP_GLYPH" = "Kabartma";
 	"PHP_APP" = "Uygulama";
 	"PFP_ENABLE_ON" = "Aktif Et";
-}

@@ -1,4 +1,4 @@
-{
+
 	"BACKGROUND_BLUR" = "Fondo borroso";
 	"GRABBER" = "Grabber";
 	"BANNER_RADIUS" = "Radio del banner";
@@ -19,4 +19,3 @@
 	"TEXT_LEFT" = "Izquierda";
 	"TEXT_CENTER" = "Centro";
 	"TEXT_RIGHT" = "Derecha";
-}

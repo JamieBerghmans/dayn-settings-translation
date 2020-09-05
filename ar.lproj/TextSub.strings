@@ -1,6 +1,5 @@
-{
+
     "MAX_LINE_COUNT" = "الحد الأقصى لعدد الخطوط";
     "HEADER_FONTSIZE" = "حجم عنوان الخط";
     "TEXT_FONTSIZE" = "حجم نص الخط";
     "STATUSBAR_FONTSIZE" = "شريط حجم الخط الحالة";
-}

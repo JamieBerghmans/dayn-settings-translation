@@ -1,4 +1,4 @@
-{
+
 	"BACKGROUND_BLUR" = "blur pozadia";
 	"GRABBER" = "grabber";
 	"BANNER_RADIUS" = "rádius bannera";
@@ -19,4 +19,3 @@
 	"TEXT_LEFT" = "v ľavo";
 	"TEXT_CENTER" = "v strede";
 	"TEXT_RIGHT" = "v pravo";
-}

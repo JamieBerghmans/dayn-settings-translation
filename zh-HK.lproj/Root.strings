@@ -1,4 +1,4 @@
-{
+
     "ENABLE_RESPRING_REQUIRED" = "啟用（需要註銷）";
     "COLOR_AUTO" = "自動";
     "COLOR_DARK" = "暗黑";
@@ -14,4 +14,3 @@
     "TESTBANNER" = "測試橫幅";
     "DEVELOPERS" = "開發者";
     "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
-}

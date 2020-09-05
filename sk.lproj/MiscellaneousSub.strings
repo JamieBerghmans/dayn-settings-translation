@@ -1,4 +1,4 @@
-{
+
     "SWITCHES" = "prepínače";
     "HAPIC_FEEDBACK" = "odozva haptic";
     "SEND_READ_RECEIPTS_IN_MESSAGES" = "Posielať prečítané potvrdenky v správach";
@@ -13,4 +13,3 @@
     
     //New settings
 	"HIDE_UNLESS_EXPANDED" = "Skryť pokiaľ nie je rozbalené";
-}

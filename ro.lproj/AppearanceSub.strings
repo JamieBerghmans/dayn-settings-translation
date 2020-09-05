@@ -1,4 +1,4 @@
-{
+
 	"BACKGROUND_BLUR" = "Neclaritate de fundal";
 	"GRABBER" = "Grabber";
 	"BANNER_RADIUS" = "Rază banner";
@@ -19,4 +19,3 @@
 	"TEXT_LEFT" = "stânga";
 	"TEXT_CENTER" = "centru";
 	"TEXT_RIGHT" = "dreapta";
-}

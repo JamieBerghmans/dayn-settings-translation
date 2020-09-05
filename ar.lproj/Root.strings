@@ -1,4 +1,4 @@
-{
+
     "ENABLE_RESPRING_REQUIRED" = "تمكين (يطلب إعادة  تشغيل سريع)";
     "COLOR_AUTO" = "تلقائي";
     "COLOR_DARK" = "داكن";
@@ -14,4 +14,3 @@
     "TESTBANNER" = "تجربة شعار";
     "DEVELOPERS" = "المطورين";
     "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
-}

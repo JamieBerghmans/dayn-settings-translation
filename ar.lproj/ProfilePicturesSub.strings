@@ -1,8 +1,7 @@
-{
+
 	"SHOW_PROFILE_PICTURE" = "إظهار صورة الملف الشخصي";
 	"SHOW_ICON_ON_PROFILE_PICTURE" = "إظهار ايقونة في صورة الملف الشخصي";
 	"PFP_NONE" = "لا شيء";
 	"PFP_GLYPH" = "حرف رسومي";
 	"PHP_APP" = "تطبيق";
 	"PFP_ENABLE_ON" = "تمكين في";
-}

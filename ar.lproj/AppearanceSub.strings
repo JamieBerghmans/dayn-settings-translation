@@ -1,4 +1,4 @@
-{
+
 	"BACKGROUND_BLUR" = "خلفية ضبابي";
 	"GRABBER" = "المنتازع";
 	"BANNER_RADIUS" = "شعاع شعار";
@@ -19,4 +19,3 @@
 	"TEXT_LEFT" = "اليسار";
 	"TEXT_CENTER" = "مركز";
 	"TEXT_RIGHT" = "اليمين";
-}

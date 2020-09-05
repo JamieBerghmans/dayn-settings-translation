@@ -1,4 +1,4 @@
-{
+
     "SWITCHES" = "سوویچ ها";
     "HAPIC_FEEDBACK" = "بازخورد هپتیک (ویبره)";
     "SEND_READ_RECEIPTS_IN_MESSAGES" = "ارسال رسید خواندن پیغام در ای مسیج";
@@ -13,4 +13,3 @@
     
     //New settings
 	"HIDE_UNLESS_EXPANDED" = "مخفی بودن به جز حالت توسعه داده شده";
-}

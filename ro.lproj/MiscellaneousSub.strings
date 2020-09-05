@@ -1,4 +1,4 @@
-{
+
     "SWITCHES" = "Întrerupător";
     "HAPIC_FEEDBACK" = "Feedback tactil";
     "SEND_READ_RECEIPTS_IN_MESSAGES" = "Trimite confirmare de citire în mesaje";
@@ -13,4 +13,3 @@
     
     //New settings
 	"HIDE_UNLESS_EXPANDED" = "Ascunde dacă nu este extins";
-}

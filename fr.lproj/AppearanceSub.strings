@@ -1,4 +1,4 @@
-{
+
 	"BACKGROUND_BLUR" = "Flou d'arrière-plan";
 	"GRABBER" = "Grabber";
 	"BANNER_RADIUS" = "Arrondi de la bannière";
@@ -19,4 +19,3 @@
 	"TEXT_LEFT" = "Gauche";
 	"TEXT_CENTER" = "Centre";
 	"TEXT_RIGHT" = "Droite";
-}

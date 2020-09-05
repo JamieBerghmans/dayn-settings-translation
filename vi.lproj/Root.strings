@@ -1,4 +1,4 @@
-{
+
     "ENABLE_RESPRING_REQUIRED" = "Bật (Yêu cầu khởi động lại)";
     "COLOR_AUTO" = "Tự động *. Hiển thị kiểu chọn";
     "COLOR_DARK" = "Tối *. Hiển thị kiểu chọn";
@@ -14,4 +14,3 @@
     "TESTBANNER" = "Kiểm tra thử biểu ngữ";
     "DEVELOPERS" = "Người phát triển ứng dụng";
     "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
-}

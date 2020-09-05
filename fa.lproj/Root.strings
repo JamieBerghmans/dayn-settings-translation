@@ -1,4 +1,4 @@
-{
+
     "ENABLE_RESPRING_REQUIRED" = "فعال کردن ( نیازمند رسپرینگ)";
     "COLOR_AUTO" = "خودکار";
     "COLOR_DARK" = "دارک";
@@ -14,4 +14,3 @@
     "TESTBANNER" = "تست بنر";
     "DEVELOPERS" = "سازندگان";
     "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
-}

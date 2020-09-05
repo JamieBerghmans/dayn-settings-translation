@@ -1,6 +1,5 @@
-{
+
     "MAX_LINE_COUNT" = "Număr maxim rânduri";
     "HEADER_FONTSIZE" = "Font antet";
     "TEXT_FONTSIZE" = "Font text";
     "STATUSBAR_FONTSIZE" = "Font statusbar";
-}

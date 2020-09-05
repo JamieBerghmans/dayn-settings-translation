@@ -1,4 +1,4 @@
-{
+
     "ENABLE_RESPRING_REQUIRED" = "activer";
     "COLOR_AUTO" = "auto";
     "COLOR_DARK" = "sombre";
@@ -14,4 +14,3 @@
     "TESTBANNER" = "Bannière de tes";
     "DEVELOPERS" = "Développeurs";
     "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
-}

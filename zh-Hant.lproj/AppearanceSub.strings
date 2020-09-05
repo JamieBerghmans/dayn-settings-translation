@@ -1,4 +1,4 @@
-{
+
 	"BACKGROUND_BLUR" = "背景模糊";
 	"GRABBER" = "抓手";
 	"BANNER_RADIUS" = "横幅半径";
@@ -19,4 +19,3 @@
 	"TEXT_LEFT" = "左边";
 	"TEXT_CENTER" = "中心";
 	"TEXT_RIGHT" = "右边";
-}

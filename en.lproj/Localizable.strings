@@ -1,6 +1,5 @@
-{
+
 	"RESPRING" = "Respring";
 	"CONFIRM_RESPRING_PROMPT" = "Are you sure you want to respring?";
 	"CONFIRM_RESPRING" = "Confirm";
 	"CANCEL_RESPRING" = "Cancel";
-}

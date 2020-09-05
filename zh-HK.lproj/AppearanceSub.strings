@@ -1,4 +1,4 @@
-{
+
 	"BACKGROUND_BLUR" = "模糊背景";
 	"GRABBER" = "採集";
 	"BANNER_RADIUS" = "橫幅半徑";
@@ -19,4 +19,3 @@
 	"TEXT_LEFT" = "左";
 	"TEXT_CENTER" = "中";
 	"TEXT_RIGHT" = "右";
-}

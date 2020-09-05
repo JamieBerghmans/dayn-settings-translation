@@ -1,4 +1,4 @@
-{
+
     "SWITCHES" = "مفاتيح";
     "HAPIC_FEEDBACK" = "ملاحظات Haptic";
     "SEND_READ_RECEIPTS_IN_MESSAGES" = "إرسال إيصالات القراءة في الرسائل";
@@ -13,4 +13,3 @@
     
     //New settings
 	"HIDE_UNLESS_EXPANDED" = "إخفاء ما لم يتم توسيعه";
-}

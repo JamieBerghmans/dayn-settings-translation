@@ -1,4 +1,4 @@
-{
+
 	"BACKGROUND_BLUR" = "Làm mờ nền";
 	"GRABBER" = "Quản lý chung";
 	"BANNER_RADIUS" = "Bo tròn thanh biểu ngữ";
@@ -19,4 +19,3 @@
 	"TEXT_LEFT" = "Bên trái *. Hiển thị bộ chọn căn chỉnh nội dung";
 	"TEXT_CENTER" = "Ở giữa *. Hiển thị bộ chọn căn chỉnh nội dung";
 	"TEXT_RIGHT" = "Bên phải *. Hiển thị bộ chọn căn chỉnh nội dung";
-}

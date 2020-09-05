@@ -1,6 +1,5 @@
-{
+
     "MAX_LINE_COUNT" = "Maksimum Satır Sayısı";
     "HEADER_FONTSIZE" = "Başlık Metni Büyüklüğü";
     "TEXT_FONTSIZE" = "Metin Büyüklüğü";
     "STATUSBAR_FONTSIZE" = "Durum Çubuğu Metin Büyüklüğü";
-}

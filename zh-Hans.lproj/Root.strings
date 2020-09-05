@@ -1,4 +1,4 @@
-{
+
     "ENABLE_RESPRING_REQUIRED" = "开启功能";
     "COLOR_AUTO" = "自动";
     "COLOR_DARK" = "深色";
@@ -14,4 +14,3 @@
     "TESTBANNER" = "测试横幅";
     "DEVELOPERS" = "开发人员";
     "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
-}

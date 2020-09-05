@@ -1,4 +1,4 @@
-{
+
     "ENABLE_RESPRING_REQUIRED" = "Povoliť (vyžaduje sa respring)";
     "COLOR_AUTO" = "auto";
     "COLOR_DARK" = "dark";
@@ -14,4 +14,3 @@
     "TESTBANNER" = "testovací banner";
     "DEVELOPERS" = "developery";
     "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
-}

@@ -1,4 +1,4 @@
-{
+
     "ENABLE_RESPRING_REQUIRED" = "activează (necesită repornirea)";
     "COLOR_AUTO" = "automatmatmat";
     "COLOR_DARK" = "întunecat";
@@ -14,4 +14,3 @@
     "TESTBANNER" = "Testează banner";
     "DEVELOPERS" = "Dezvoltatori";
     "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
-}
