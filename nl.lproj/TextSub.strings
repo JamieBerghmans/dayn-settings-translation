@@ -1,5 +1,4 @@
-
-    "MAX_LINE_COUNT" = "Maximum lijntelling";
-    "HEADER_FONTSIZE" = "Koptekst fontgrootte";
-    "TEXT_FONTSIZE" = "Tekst fontgrootte";
-    "STATUSBAR_FONTSIZE" = "Statusbalk font grootte";
+"MAX_LINE_COUNT" = "Maximum lijntelling";
+"HEADER_FONTSIZE" = "Koptekst fontgrootte";
+"TEXT_FONTSIZE" = "Fontgrootte tekst";
+"STATUSBAR_FONTSIZE" = "Statusbalk font grootte";
