@@ -1,0 +1,5 @@
+{
+    "USE_TINY_BANNER" = "使用橫幅";
+    "USE_IF_NO_TEXT" = "如果沒有文字則使用";
+    "TEXT_FONTSIZE" = "文字大小";
+}

@@ -1,0 +1,8 @@
+{
+	"SHOW_PROFILE_PICTURE" = "ukázať profilovú fotku";
+	"SHOW_ICON_ON_PROFILE_PICTURE" = "ukázať ikonu na profilovom obrázku";
+	"PFP_NONE" = "žiadne";
+	"PFP_GLYPH" = "piktogram";
+	"PHP_APP" = "aplikácia";
+	"PFP_ENABLE_ON" = "povoliť";
+}

@@ -1,0 +1,22 @@
+{
+	"BACKGROUND_BLUR" = "Background blur";
+	"GRABBER" = "Grabber";
+	"BANNER_RADIUS" = "Banner Radius";
+	"ICON_RADIUS" = "Icon Radius";
+	"ICON_SIZE" = "Icon Size";
+	"TIME_TO_DISMISS" = "Time to dismiss";
+	"TOP_OFFSET" = "Top offset";
+	"STATUSBAR_SETTINGS" = "Statusbar settings";
+	"SHOW_STATUSBAR" = "Show statusbar";
+	"24_H_CLOCK" = "24 Hour Clock";
+	"BUTTON_SETTINGS" = "Button settings";
+	"SHOW_BUTTONS" = "Show Buttons";
+	"BOLD_BUTTON_TEXT" = "Bold button text";
+
+	//New settings
+	"TEXT_ALIGNMENT" = "Text alignment";
+	"TEXT_NATIVE" = "native";
+	"TEXT_LEFT" = "left";
+	"TEXT_CENTER" = "center";
+	"TEXT_RIGHT" = "right";
+}

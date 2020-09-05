@@ -1,0 +1,8 @@
+{
+	"SHOW_PROFILE_PICTURE" = "Hiển thị ảnh đại diện";
+	"SHOW_ICON_ON_PROFILE_PICTURE" = "Hiển thị biểu tượng trên ảnh đại diện";
+	"PFP_NONE" = "Không *. Hiển thị kiểu nét chọn";
+	"PFP_GLYPH" = "Độ nét *. Hiển thị kiểu nét chọn";
+	"PHP_APP" = "Ứng dụng *. Hiển thị kiểu nét chọn";
+	"PFP_ENABLE_ON" = "Bật lên *. Tiêu đề cho tất cả các chuyển đổi ứng dụng";
+}

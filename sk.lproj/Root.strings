@@ -1,0 +1,17 @@
+{
+    "ENABLE_RESPRING_REQUIRED" = "Povoliť (vyžaduje sa respring)";
+    "COLOR_AUTO" = "auto";
+    "COLOR_DARK" = "dark";
+    "COLOR_LIGHT" = "svetlý";
+    "COLOR_BLACK" = "čierny";
+    "SETTINGS" = "nastavenia";
+    "APPEARANCE" = "vzhľad";
+    "FONT_SETTINGS" = "nastavenia fontu";
+    "PROFILE_PICTURES" = "profilové fotky";
+    "TINY_BANNER" = "malé bannery";
+    "MISCELLANEOUS" = "zmiešaný";
+    "TEST_DAYN" = "test dayn";
+    "TESTBANNER" = "testovací banner";
+    "DEVELOPERS" = "developery";
+    "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
+}

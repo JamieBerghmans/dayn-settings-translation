@@ -1,0 +1,16 @@
+{
+    "SWITCHES" = "Switchs";
+    "HAPIC_FEEDBACK" = "Retour haptique";
+    "SEND_READ_RECEIPTS_IN_MESSAGES" = "Envoyer la confirmation de message lu";
+    "READ_RECEIPTS_NONE" = "Aucun";
+    "READ_RECEIPTS_EXPAND" = "Quand est étendu";
+    "READ_RECEIPTS_REPLY" = "Quand a répondu";
+    "TROUBLESHOOTING" = "Support";
+    "RESET_SETTINGS_AND_RESPRING" = "Restaurer les réglages et respring";
+    "RESET_PROMPT" = "Êtes-vous sûr de vouloir restaurer les réglages et respring ?";
+    "RESET_CONFIRM" = "Oui";
+    "RESET_CANCEL" = "Ignorer";
+    
+    //New settings
+	"HIDE_UNLESS_EXPANDED" = "Masquer tant qu'il n'y a pas d'expansion";
+}

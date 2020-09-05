@@ -1,0 +1,22 @@
+{
+	"BACKGROUND_BLUR" = "خلفية ضبابي";
+	"GRABBER" = "المنتازع";
+	"BANNER_RADIUS" = "شعاع شعار";
+	"ICON_RADIUS" = "شعاع أيقونة";
+	"ICON_SIZE" = "حجم أيقونة";
+	"TIME_TO_DISMISS" = "وقت الرفض";
+	"TOP_OFFSET" = "إزاحة أعلى";
+	"STATUSBAR_SETTINGS" = "إعدادات شريط الحالة";
+	"SHOW_STATUSBAR" = "أظهر شريط الحالة";
+	"24_H_CLOCK" = "24 ساعة";
+	"BUTTON_SETTINGS" = "زر الإعدادت";
+	"SHOW_BUTTONS" = "أظهر الزر";
+	"BOLD_BUTTON_TEXT" = "نص الزر الغامق";
+
+	//New settings
+	"TEXT_ALIGNMENT" = "محاذاة النص";
+	"TEXT_NATIVE" = "محلي";
+	"TEXT_LEFT" = "اليسار";
+	"TEXT_CENTER" = "مركز";
+	"TEXT_RIGHT" = "اليمين";
+}

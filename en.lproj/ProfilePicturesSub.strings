@@ -1,0 +1,8 @@
+{
+	"SHOW_PROFILE_PICTURE" = "Show profile picture";
+	"SHOW_ICON_ON_PROFILE_PICTURE" = "Show icon on profile picture";
+	"PFP_NONE" = "none";
+	"PFP_GLYPH" = "glyph";
+	"PHP_APP" = "app";
+	"PFP_ENABLE_ON" = "Enable on";
+}

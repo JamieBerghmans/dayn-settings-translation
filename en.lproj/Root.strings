@@ -1,0 +1,17 @@
+{
+    "ENABLE_RESPRING_REQUIRED" = "Enable (respring required)";
+    "COLOR_AUTO" = "auto";
+    "COLOR_DARK" = "dark";
+    "COLOR_LIGHT" = "light";
+    "COLOR_BLACK" = "black";
+    "SETTINGS" = "Settings";
+    "APPEARANCE" = "Appearance";
+    "FONT_SETTINGS" = "Font settings";
+    "PROFILE_PICTURES" = "Profile pictures";
+    "TINY_BANNER" = "Tiny banner";
+    "MISCELLANEOUS" = "Miscellaneous";
+    "TEST_DAYN" = "Test Dayn";
+    "TESTBANNER" = "Testbanner";
+    "DEVELOPERS" = "Developers";
+    "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
+}

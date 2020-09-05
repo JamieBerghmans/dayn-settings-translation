@@ -1,0 +1,16 @@
+{
+    "SWITCHES" = "开关";
+    "HAPIC_FEEDBACK" = "触觉反馈";
+    "SEND_READ_RECEIPTS_IN_MESSAGES" = "发送已读回执信息";
+    "READ_RECEIPTS_NONE" = "无";
+    "READ_RECEIPTS_EXPAND" = "展开时";
+    "READ_RECEIPTS_REPLY" = "回复时";
+    "TROUBLESHOOTING" = "故障排除";
+    "RESET_SETTINGS_AND_RESPRING" = "重置设置并注销";
+    "RESET_PROMPT" = "你确定要重置所有设置并注销设备吗？";
+    "RESET_CONFIRM" = "是的";
+    "RESET_CANCEL" = "取消";
+    
+    //New settings
+	"HIDE_UNLESS_EXPANDED" = "隐藏， 除非展开";
+}

@@ -1,0 +1,6 @@
+{
+	"RESPRING" = "註銷";
+	"CONFIRM_RESPRING_PROMPT" = "您確定要註銷嗎？";
+	"CONFIRM_RESPRING" = "確認";
+	"CANCEL_RESPRING" = "取消";
+}

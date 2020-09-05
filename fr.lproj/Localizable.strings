@@ -1,0 +1,6 @@
+{
+	"RESPRING" = "Respring";
+	"CONFIRM_RESPRING_PROMPT" = "Êtes-vous sûr de vouloir respring ?";
+	"CONFIRM_RESPRING" = "Confirmererer";
+	"CANCEL_RESPRING" = "Ignorer";
+}

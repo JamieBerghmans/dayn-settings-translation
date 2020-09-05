@@ -1,0 +1,6 @@
+{
+	"RESPRING" = "إعادة تشغيل سريع";
+	"CONFIRM_RESPRING_PROMPT" = "هل أنت متأكد أنك تريد إعادة تشغيل سريع؟";
+	"CONFIRM_RESPRING" = "تأكيد";
+	"CANCEL_RESPRING" = "الغاء";
+}

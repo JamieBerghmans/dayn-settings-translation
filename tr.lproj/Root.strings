@@ -1,0 +1,17 @@
+{
+    "ENABLE_RESPRING_REQUIRED" = "Aktif Et ( Respring Gereklidir )";
+    "COLOR_AUTO" = "Otomatik";
+    "COLOR_DARK" = "Koyu";
+    "COLOR_LIGHT" = "Işık";
+    "COLOR_BLACK" = "Siyah";
+    "SETTINGS" = "Ayarlar";
+    "APPEARANCE" = "Görünüm";
+    "FONT_SETTINGS" = "Font Ayarları";
+    "PROFILE_PICTURES" = "Profil Fotoğrafları";
+    "TINY_BANNER" = "İnce Afiş";
+    "MISCELLANEOUS" = "Diğer";
+    "TEST_DAYN" = "Test Et";
+    "TESTBANNER" = "Afiş Testi";
+    "DEVELOPERS" = "Geliştiriciler";
+    "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
+}

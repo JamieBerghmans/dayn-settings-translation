@@ -1,0 +1,22 @@
+{
+	"BACKGROUND_BLUR" = "Neclaritate de fundal";
+	"GRABBER" = "Grabber";
+	"BANNER_RADIUS" = "Rază banner";
+	"ICON_RADIUS" = "Rază pictogramă";
+	"ICON_SIZE" = "Mărime pictogramă";
+	"TIME_TO_DISMISS" = "Timp pentru respingere";
+	"TOP_OFFSET" = "Offset partea de sus";
+	"STATUSBAR_SETTINGS" = "Setări statusbar";
+	"SHOW_STATUSBAR" = "Arată statusbar";
+	"24_H_CLOCK" = "Format ceas 24 ore";
+	"BUTTON_SETTINGS" = "Setări pentru butoane";
+	"SHOW_BUTTONS" = "Arată butoane";
+	"BOLD_BUTTON_TEXT" = "Text butoane îngroșat";
+
+	//New settings
+	"TEXT_ALIGNMENT" = "Aliniere text";
+	"TEXT_NATIVE" = "nativ";
+	"TEXT_LEFT" = "stânga";
+	"TEXT_CENTER" = "centru";
+	"TEXT_RIGHT" = "dreapta";
+}

@@ -1,0 +1,6 @@
+{
+	"RESPRING" = "Respring";
+	"CONFIRM_RESPRING_PROMPT" = "Respring Yapmak İstiyor Musunuz?";
+	"CONFIRM_RESPRING" = "Onayla";
+	"CANCEL_RESPRING" = "İptal";
+}

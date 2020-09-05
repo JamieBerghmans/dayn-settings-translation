@@ -1,0 +1,5 @@
+{
+    "USE_TINY_BANNER" = "Gebruik kleine banner";
+    "USE_IF_NO_TEXT" = "Gebruik als er geen tekst is";
+    "TEXT_FONTSIZE" = "Fontgrootte tekst";
+}

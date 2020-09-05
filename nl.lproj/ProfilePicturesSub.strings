@@ -1,0 +1,8 @@
+{
+	"SHOW_PROFILE_PICTURE" = "Laat profiel foto zien";
+	"SHOW_ICON_ON_PROFILE_PICTURE" = "Geef icoon weer op profiel foto";
+	"PFP_NONE" = "Geen";
+	"PFP_GLYPH" = "Glyph";
+	"PHP_APP" = "App";
+	"PFP_ENABLE_ON" = "Aanzetten wanneer";
+}

@@ -1,0 +1,16 @@
+{
+    "SWITCHES" = "مفاتيح";
+    "HAPIC_FEEDBACK" = "ملاحظات Haptic";
+    "SEND_READ_RECEIPTS_IN_MESSAGES" = "إرسال إيصالات القراءة في الرسائل";
+    "READ_RECEIPTS_NONE" = "لاشيء";
+    "READ_RECEIPTS_EXPAND" = "في التوسع";
+    "READ_RECEIPTS_REPLY" = "عند الرد";
+    "TROUBLESHOOTING" = "استكشاف الأخطاء وإصلاحها";
+    "RESET_SETTINGS_AND_RESPRING" = "إعادة تعيين الإعدادات و اعادة تشغيل سريع";
+    "RESET_PROMPT" = "هل أنت متأكد من أنك تريد إعادة تعيين الإعدادات و اعادة تشغيل سريع؟";
+    "RESET_CONFIRM" = "نعم";
+    "RESET_CANCEL" = "الغاء";
+    
+    //New settings
+	"HIDE_UNLESS_EXPANDED" = "إخفاء ما لم يتم توسيعه";
+}

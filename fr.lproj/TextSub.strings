@@ -1,0 +1,6 @@
+{
+    "MAX_LINE_COUNT" = "Nombre maximu de lignes";
+    "HEADER_FONTSIZE" = "Taille de police de l'entête";
+    "TEXT_FONTSIZE" = "Taille du texte";
+    "STATUSBAR_FONTSIZE" = "Taille du texte de la barre de status";
+}

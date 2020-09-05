@@ -1,0 +1,22 @@
+{
+	"BACKGROUND_BLUR" = "模糊背景";
+	"GRABBER" = "採集";
+	"BANNER_RADIUS" = "橫幅半徑";
+	"ICON_RADIUS" = "圖標半徑";
+	"ICON_SIZE" = "圖標大小";
+	"TIME_TO_DISMISS" = "顯示時間";
+	"TOP_OFFSET" = "頂部偏移";
+	"STATUSBAR_SETTINGS" = "狀態欄設置";
+	"SHOW_STATUSBAR" = "顯示狀態欄";
+	"24_H_CLOCK" = "24小時制";
+	"BUTTON_SETTINGS" = "按鈕設置";
+	"SHOW_BUTTONS" = "顯示按鈕";
+	"BOLD_BUTTON_TEXT" = "粗體按鈕文字";
+
+	//New settings
+	"TEXT_ALIGNMENT" = "文字對齊";
+	"TEXT_NATIVE" = "本機";
+	"TEXT_LEFT" = "左";
+	"TEXT_CENTER" = "中";
+	"TEXT_RIGHT" = "右";
+}

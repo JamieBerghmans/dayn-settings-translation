@@ -1,0 +1,6 @@
+{
+	"RESPRING" = "Khởi động lại";
+	"CONFIRM_RESPRING_PROMPT" = "Bạn có chắc chắn thực hiện việc khởi động lại?";
+	"CONFIRM_RESPRING" = "Xác nhận";
+	"CANCEL_RESPRING" = "Huỷ";
+}

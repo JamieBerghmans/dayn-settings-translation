@@ -1,0 +1,16 @@
+{
+    "SWITCHES" = "Comutas";
+    "HAPIC_FEEDBACK" = "Feedback de  Haptic";
+    "SEND_READ_RECEIPTS_IN_MESSAGES" = "Enviar recibos de leitura em mensagens";
+    "READ_RECEIPTS_NONE" = "nenhum";
+    "READ_RECEIPTS_EXPAND" = "Em expandir";
+    "READ_RECEIPTS_REPLY" = "Na resposta";
+    "TROUBLESHOOTING" = "Solução de problemas";
+    "RESET_SETTINGS_AND_RESPRING" = "Resetar configurações e reiniciar a springboard";
+    "RESET_PROMPT" = "Você tem certeza que quer resetar as configurações e reiniciar a springboard?";
+    "RESET_CONFIRM" = "Sim!";
+    "RESET_CANCEL" = "Cancelarararararar";
+    
+    //New settings
+	"HIDE_UNLESS_EXPANDED" = "Ocultar a menos que expandido";
+}

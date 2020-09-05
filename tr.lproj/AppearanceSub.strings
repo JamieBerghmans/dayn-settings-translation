@@ -1,0 +1,22 @@
+{
+	"BACKGROUND_BLUR" = "Arkaplan Bulanıklığı";
+	"GRABBER" = "Alt Çizgi";
+	"BANNER_RADIUS" = "Afiş Yarıçapı";
+	"ICON_RADIUS" = "Simge Yarıçapı";
+	"ICON_SIZE" = "Simge Büyüklüğü";
+	"TIME_TO_DISMISS" = "Kaybolma Zamanı";
+	"TOP_OFFSET" = "Üst Çıkıntı";
+	"STATUSBAR_SETTINGS" = "Durum Çubuğu Ayarları";
+	"SHOW_STATUSBAR" = "Durum Çubuğunu Göster";
+	"24_H_CLOCK" = "24 Saat";
+	"BUTTON_SETTINGS" = "Buton Ayarları";
+	"SHOW_BUTTONS" = "Butonları Göster";
+	"BOLD_BUTTON_TEXT" = "Kalın Buton Yazısı";
+
+	//New settings
+	"TEXT_ALIGNMENT" = "Metin Hizalama";
+	"TEXT_NATIVE" = "Metin Hizalama";
+	"TEXT_LEFT" = "Sol";
+	"TEXT_CENTER" = "Merkez";
+	"TEXT_RIGHT" = "Sağ";
+}

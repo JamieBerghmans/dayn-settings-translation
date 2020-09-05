@@ -1,0 +1,22 @@
+{
+	"BACKGROUND_BLUR" = "تیرگی پس زمینه";
+	"GRABBER" = "گرابر";
+	"BANNER_RADIUS" = "شعاع بنر";
+	"ICON_RADIUS" = "شعاع آیکون";
+	"ICON_SIZE" = "سایز آیکون";
+	"TIME_TO_DISMISS" = "زمان محو شدن بنر";
+	"TOP_OFFSET" = "افست بالا";
+	"STATUSBAR_SETTINGS" = "تنظیمات استاتوس بار";
+	"SHOW_STATUSBAR" = "نمایش استاتوس بار";
+	"24_H_CLOCK" = "حالت ساعت 24 ساعته";
+	"BUTTON_SETTINGS" = "تنظیمات دکمه ها";
+	"SHOW_BUTTONS" = "نمایش دکمه ها";
+	"BOLD_BUTTON_TEXT" = "متن پر رنگ شده دکمه ها";
+
+	//New settings
+	"TEXT_ALIGNMENT" = "تنظیمات متن";
+	"TEXT_NATIVE" = "حالت عادی";
+	"TEXT_LEFT" = "چپ";
+	"TEXT_CENTER" = "مرکز";
+	"TEXT_RIGHT" = "راست";
+}

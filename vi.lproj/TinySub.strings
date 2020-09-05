@@ -1,0 +1,5 @@
+{
+    "USE_TINY_BANNER" = "Dùng thanh biểu ngữ nhỏ";
+    "USE_IF_NO_TEXT" = "Sử dụng nếu không có nội dung";
+    "TEXT_FONTSIZE" = "Kích thước nội dung";
+}

@@ -1,0 +1,6 @@
+{
+	"RESPRING" = "Reinicio rápido";
+	"CONFIRM_RESPRING_PROMPT" = "¿Estas seguro que quieres realizar reinicio rápido?";
+	"CONFIRM_RESPRING" = "Confirmararar";
+	"CANCEL_RESPRING" = "Cancelararar";
+}

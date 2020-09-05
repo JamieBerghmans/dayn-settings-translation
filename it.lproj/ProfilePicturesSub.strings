@@ -1,0 +1,8 @@
+{
+	"SHOW_PROFILE_PICTURE" = "mostra la foto del profilo";
+	"SHOW_ICON_ON_PROFILE_PICTURE" = "mostra icona sulla foto del profilo";
+	"PFP_NONE" = "Nessuna";
+	"PFP_GLYPH" = "Glifo";
+	"PHP_APP" = "App";
+	"PFP_ENABLE_ON" = "Abilita in";
+}

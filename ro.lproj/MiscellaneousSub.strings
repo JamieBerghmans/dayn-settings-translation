@@ -1,0 +1,16 @@
+{
+    "SWITCHES" = "Întrerupător";
+    "HAPIC_FEEDBACK" = "Feedback tactil";
+    "SEND_READ_RECEIPTS_IN_MESSAGES" = "Trimite confirmare de citire în mesaje";
+    "READ_RECEIPTS_NONE" = "nimic";
+    "READ_RECEIPTS_EXPAND" = "când extinzi";
+    "READ_RECEIPTS_REPLY" = "când răspunzi";
+    "TROUBLESHOOTING" = "Remediere";
+    "RESET_SETTINGS_AND_RESPRING" = "Resetează setări și repornește";
+    "RESET_PROMPT" = "Ești sigur că dorești să resetezi setările și să repornești?";
+    "RESET_CONFIRM" = "Da";
+    "RESET_CANCEL" = "Anulează";
+    
+    //New settings
+	"HIDE_UNLESS_EXPANDED" = "Ascunde dacă nu este extins";
+}

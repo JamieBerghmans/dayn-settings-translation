@@ -1,0 +1,22 @@
+{
+	"BACKGROUND_BLUR" = "sfocatura dello sfondo";
+	"GRABBER" = "Grabber";
+	"BANNER_RADIUS" = "raggio del banner";
+	"ICON_RADIUS" = "raggio dell'icona";
+	"ICON_SIZE" = "dimensione dell'icona";
+	"TIME_TO_DISMISS" = "Tempo di dismiss";
+	"TOP_OFFSET" = "offset superiore";
+	"STATUSBAR_SETTINGS" = "impostazioni della barra di stato";
+	"SHOW_STATUSBAR" = "mostra la barra di stato";
+	"24_H_CLOCK" = "Orologio 24 ore";
+	"BUTTON_SETTINGS" = "impostazioni dei pulsanti";
+	"SHOW_BUTTONS" = "mostra i pulsanti";
+	"BOLD_BUTTON_TEXT" = "testo in grassetto";
+
+	//New settings
+	"TEXT_ALIGNMENT" = "allineamento del testo";
+	"TEXT_NATIVE" = "nativo";
+	"TEXT_LEFT" = "Sinistra";
+	"TEXT_CENTER" = "Centro";
+	"TEXT_RIGHT" = "Destra";
+}

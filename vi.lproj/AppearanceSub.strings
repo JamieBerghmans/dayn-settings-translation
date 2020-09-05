@@ -1,0 +1,22 @@
+{
+	"BACKGROUND_BLUR" = "Làm mờ nền";
+	"GRABBER" = "Quản lý chung";
+	"BANNER_RADIUS" = "Bo tròn thanh biểu ngữ";
+	"ICON_RADIUS" = "Làm tròn biểu tượng";
+	"ICON_SIZE" = "Kích thước biểu tượng";
+	"TIME_TO_DISMISS" = "Thời gian gạt bỏ";
+	"TOP_OFFSET" = "Khoảng chừa trống trên";
+	"STATUSBAR_SETTINGS" = "Cài đặt thanh trạng thái";
+	"SHOW_STATUSBAR" = "Hiển thị thanh trạng thái";
+	"24_H_CLOCK" = "Định dạng 24 giờ";
+	"BUTTON_SETTINGS" = "Nút cài đặt";
+	"SHOW_BUTTONS" = "Các nút hiển thị";
+	"BOLD_BUTTON_TEXT" = "Bôi đậm chữ trên nút";
+
+	//New settings
+	"TEXT_ALIGNMENT" = "Canh thẳng hàng nội dung";
+	"TEXT_NATIVE" = "Theo mặc định *. Hiển thị bộ chọn căn chỉnh nội dung";
+	"TEXT_LEFT" = "Bên trái *. Hiển thị bộ chọn căn chỉnh nội dung";
+	"TEXT_CENTER" = "Ở giữa *. Hiển thị bộ chọn căn chỉnh nội dung";
+	"TEXT_RIGHT" = "Bên phải *. Hiển thị bộ chọn căn chỉnh nội dung";
+}

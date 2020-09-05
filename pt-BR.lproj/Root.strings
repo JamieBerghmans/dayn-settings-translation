@@ -1,0 +1,17 @@
+{
+    "ENABLE_RESPRING_REQUIRED" = "Ativar (requer reiniciar a springboard)";
+    "COLOR_AUTO" = "automáticomáticomáticomáticomáticomático";
+    "COLOR_DARK" = "escuro";
+    "COLOR_LIGHT" = "claro";
+    "COLOR_BLACK" = "preto";
+    "SETTINGS" = "Configurações";
+    "APPEARANCE" = "Aparência";
+    "FONT_SETTINGS" = "Configurações de fonte";
+    "PROFILE_PICTURES" = "Fotos de perfil";
+    "TINY_BANNER" = "Banner fino";
+    "MISCELLANEOUS" = "Diversos";
+    "TEST_DAYN" = "Testar Dayn";
+    "TESTBANNER" = "Testar banner";
+    "DEVELOPERS" = "Desenvolvedores";
+    "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
+}

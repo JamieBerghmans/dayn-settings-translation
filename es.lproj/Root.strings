@@ -1,0 +1,17 @@
+{
+    "ENABLE_RESPRING_REQUIRED" = "Activar (Reinicio rápido requerido)";
+    "COLOR_AUTO" = "Auto";
+    "COLOR_DARK" = "Oscuro";
+    "COLOR_LIGHT" = "Claro";
+    "COLOR_BLACK" = "Negro";
+    "SETTINGS" = "Ajustes";
+    "APPEARANCE" = "Apariencia";
+    "FONT_SETTINGS" = "Fuente de ajustes";
+    "PROFILE_PICTURES" = "Foto de perfil";
+    "TINY_BANNER" = "Banner pequeño";
+    "MISCELLANEOUS" = "Varios";
+    "TEST_DAYN" = "Probar Dayn";
+    "TESTBANNER" = "Banner de prueba";
+    "DEVELOPERS" = "Desarrolladores";
+    "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
+}

@@ -1,0 +1,22 @@
+{
+	"BACKGROUND_BLUR" = "Achtergrond vervaging";
+	"GRABBER" = "Grijper";
+	"BANNER_RADIUS" = "Banner straal";
+	"ICON_RADIUS" = "Icoon straal";
+	"ICON_SIZE" = "Icoon grootte";
+	"TIME_TO_DISMISS" = "Tijd om af te wijzen";
+	"TOP_OFFSET" = "Offset boven";
+	"STATUSBAR_SETTINGS" = "Statusbalk instellingen";
+	"SHOW_STATUSBAR" = "Statusbalk weergeven";
+	"24_H_CLOCK" = "24 uurs klok";
+	"BUTTON_SETTINGS" = "Knop instellingen";
+	"SHOW_BUTTONS" = "Knoppen weergaven";
+	"BOLD_BUTTON_TEXT" = "Vetgedrukte knop tekst";
+
+	//New settings
+	"TEXT_ALIGNMENT" = "Tekst uitleiding";
+	"TEXT_NATIVE" = "Standaard";
+	"TEXT_LEFT" = "Links";
+	"TEXT_CENTER" = "Midden";
+	"TEXT_RIGHT" = "Rechts";
+}

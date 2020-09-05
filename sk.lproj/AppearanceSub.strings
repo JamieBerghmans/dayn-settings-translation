@@ -1,0 +1,22 @@
+{
+	"BACKGROUND_BLUR" = "blur pozadia";
+	"GRABBER" = "grabber";
+	"BANNER_RADIUS" = "rádius bannera";
+	"ICON_RADIUS" = "rádius ikony";
+	"ICON_SIZE" = "veľkosť ikony";
+	"TIME_TO_DISMISS" = "čas do zmiznutia";
+	"TOP_OFFSET" = "horný offset";
+	"STATUSBAR_SETTINGS" = "nastavenia statusbaru";
+	"SHOW_STATUSBAR" = "ukázať statusbar";
+	"24_H_CLOCK" = "24 hodinové hodiny";
+	"BUTTON_SETTINGS" = "nastavenia tlačidiel";
+	"SHOW_BUTTONS" = "ukázať tlačidlá";
+	"BOLD_BUTTON_TEXT" = "tučný text tlačidla";
+
+	//New settings
+	"TEXT_ALIGNMENT" = "zarovnanie textu";
+	"TEXT_NATIVE" = "pôvodný";
+	"TEXT_LEFT" = "v ľavo";
+	"TEXT_CENTER" = "v strede";
+	"TEXT_RIGHT" = "v pravo";
+}

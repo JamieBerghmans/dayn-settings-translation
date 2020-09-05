@@ -1,0 +1,17 @@
+{
+    "ENABLE_RESPRING_REQUIRED" = "Aanzetten (respring vereist)";
+    "COLOR_AUTO" = "Automatisch";
+    "COLOR_DARK" = "Donker";
+    "COLOR_LIGHT" = "Licht";
+    "COLOR_BLACK" = "Zwart";
+    "SETTINGS" = "Instellingen";
+    "APPEARANCE" = "Weergave";
+    "FONT_SETTINGS" = "Font instellingen";
+    "PROFILE_PICTURES" = "Profiel foto’s";
+    "TINY_BANNER" = "Kleine banner";
+    "MISCELLANEOUS" = "Divers";
+    "TEST_DAYN" = "Test Dayn";
+    "TESTBANNER" = "Testbanner";
+    "DEVELOPERS" = "Ontwikkelaars";
+    "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
+}

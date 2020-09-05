@@ -1,0 +1,16 @@
+{
+    "SWITCHES" = "Sự chuyển động *. Tiêu đề của 2 chuyển đổi đầu tiên";
+    "HAPIC_FEEDBACK" = "Phản hồi xúc giác";
+    "SEND_READ_RECEIPTS_IN_MESSAGES" = "Gửi nội dung đã đọc vào tin nhắn";
+    "READ_RECEIPTS_NONE" = "Không *. Hiển thị trên bộ chọn loại nội dung đã đọc";
+    "READ_RECEIPTS_EXPAND" = "Mở rộng *. Hiển thị trên bộ chọn loại nội dung đã đọc";
+    "READ_RECEIPTS_REPLY" = "Trả lời *. Hiển thị trên bộ chọn loại nội dung đã đọc";
+    "TROUBLESHOOTING" = "Xử lý sự cố";
+    "RESET_SETTINGS_AND_RESPRING" = "Đặt lại cài đặt & khởi động lại";
+    "RESET_PROMPT" = "Bạn có chắc chắn Đặt lại cài đặt & khởi động lại";
+    "RESET_CONFIRM" = "Có! *. Một trong 2 câu trả lời cho câu hỏi trên";
+    "RESET_CANCEL" = "Huỷ *.  Một trong 2 câu trả lời cho câu hỏi trên";
+    
+    //New settings
+	"HIDE_UNLESS_EXPANDED" = "Ẩn trừ khi được mở rộng";
+}

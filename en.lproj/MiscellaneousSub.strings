@@ -1,0 +1,16 @@
+{
+    "SWITCHES" = "Switches";
+    "HAPIC_FEEDBACK" = "Haptic Feedback";
+    "SEND_READ_RECEIPTS_IN_MESSAGES" = "Send read receipts in messages";
+    "READ_RECEIPTS_NONE" = "none";
+    "READ_RECEIPTS_EXPAND" = "on expand";
+    "READ_RECEIPTS_REPLY" = "on reply";
+    "TROUBLESHOOTING" = "Troubleshooting";
+    "RESET_SETTINGS_AND_RESPRING" = "Reset settings and respring";
+    "RESET_PROMPT" = "Are you sure you want to reset settings and respring?";
+    "RESET_CONFIRM" = "Yes!";
+    "RESET_CANCEL" = "Cancel";
+    
+    //New settings
+	"HIDE_UNLESS_EXPANDED" = "Hide unless expanded";
+}

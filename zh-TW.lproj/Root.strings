@@ -1,0 +1,17 @@
+{
+    "ENABLE_RESPRING_REQUIRED" = "啟用（需要註銷）";
+    "COLOR_AUTO" = "自動";
+    "COLOR_DARK" = "暗黑";
+    "COLOR_LIGHT" = "亮色";
+    "COLOR_BLACK" = "黑色";
+    "SETTINGS" = "設置";
+    "APPEARANCE" = "外觀";
+    "FONT_SETTINGS" = "字體設置";
+    "PROFILE_PICTURES" = "應用圖標";
+    "TINY_BANNER" = "橫幅";
+    "MISCELLANEOUS" = "其它";
+    "TEST_DAYN" = "測試Dayn";
+    "TESTBANNER" = "測試橫幅";
+    "DEVELOPERS" = "開發者";
+    "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
+}

@@ -1,0 +1,16 @@
+{
+    "SWITCHES" = "prepínače";
+    "HAPIC_FEEDBACK" = "odozva haptic";
+    "SEND_READ_RECEIPTS_IN_MESSAGES" = "Posielať prečítané potvrdenky v správach";
+    "READ_RECEIPTS_NONE" = "žiadne";
+    "READ_RECEIPTS_EXPAND" = "na rozbalenie";
+    "READ_RECEIPTS_REPLY" = "na odpoveď";
+    "TROUBLESHOOTING" = "riešenie problémov";
+    "RESET_SETTINGS_AND_RESPRING" = "rešpektovať nastavenia a reapring";
+    "RESET_PROMPT" = "Naozaj chcete obnoviť nastavenia a znova odoslať výsledky";
+    "RESET_CONFIRM" = "áno";
+    "RESET_CANCEL" = "zrušiť";
+    
+    //New settings
+	"HIDE_UNLESS_EXPANDED" = "Skryť pokiaľ nie je rozbalené";
+}

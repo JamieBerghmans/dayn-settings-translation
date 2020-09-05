@@ -1,0 +1,16 @@
+{
+    "SWITCHES" = "Anahtarlar";
+    "HAPIC_FEEDBACK" = "Titreşim Geri Bildirimi";
+    "SEND_READ_RECEIPTS_IN_MESSAGES" = "Mesajları Okundu Olarak İşaretle";
+    "READ_RECEIPTS_NONE" = "Yok";
+    "READ_RECEIPTS_EXPAND" = "Geniş Olduğunda";
+    "READ_RECEIPTS_REPLY" = "Yanıt Verme Anında";
+    "TROUBLESHOOTING" = "Sorun Giderme";
+    "RESET_SETTINGS_AND_RESPRING" = "Ayarları Sıfırla ve Yeniden Başlat";
+    "RESET_PROMPT" = "Ayarları Sıfırlamak İstiyor Musunuz?";
+    "RESET_CONFIRM" = "Evet?";
+    "RESET_CANCEL" = "İptal!";
+    
+    //New settings
+	"HIDE_UNLESS_EXPANDED" = "Genişletilmediği Sürece Gizle";
+}

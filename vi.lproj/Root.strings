@@ -1,0 +1,17 @@
+{
+    "ENABLE_RESPRING_REQUIRED" = "Bật (Yêu cầu khởi động lại)";
+    "COLOR_AUTO" = "Tự động *. Hiển thị kiểu chọn";
+    "COLOR_DARK" = "Tối *. Hiển thị kiểu chọn";
+    "COLOR_LIGHT" = "Sáng *. Hiển thị kiểu chọn";
+    "COLOR_BLACK" = "Đen *. Hiển thị kiểu chọn";
+    "SETTINGS" = "Cài đặt";
+    "APPEARANCE" = "Hiển thị";
+    "FONT_SETTINGS" = "Cài đặt phông chữ";
+    "PROFILE_PICTURES" = "Ảnh đại diện";
+    "TINY_BANNER" = "Biểu ngữ nhỏ";
+    "MISCELLANEOUS" = "Các vấn đề khác";
+    "TEST_DAYN" = "Kiểm tra thử Dayn";
+    "TESTBANNER" = "Kiểm tra thử biểu ngữ";
+    "DEVELOPERS" = "Người phát triển ứng dụng";
+    "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
+}

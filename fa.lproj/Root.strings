@@ -1,0 +1,17 @@
+{
+    "ENABLE_RESPRING_REQUIRED" = "فعال کردن ( نیازمند رسپرینگ)";
+    "COLOR_AUTO" = "خودکار";
+    "COLOR_DARK" = "دارک";
+    "COLOR_LIGHT" = "روشن";
+    "COLOR_BLACK" = "سیاه";
+    "SETTINGS" = "تنظیمات";
+    "APPEARANCE" = "ظاهر";
+    "FONT_SETTINGS" = "تنظیمات فونت";
+    "PROFILE_PICTURES" = "عکس پروفایل";
+    "TINY_BANNER" = "بنر کوچک";
+    "MISCELLANEOUS" = "تنظیمات متفرقه";
+    "TEST_DAYN" = "تست توییک";
+    "TESTBANNER" = "تست بنر";
+    "DEVELOPERS" = "سازندگان";
+    "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
+}

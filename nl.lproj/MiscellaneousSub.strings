@@ -1,0 +1,16 @@
+{
+    "SWITCHES" = "Schakelaars";
+    "HAPIC_FEEDBACK" = "Haptische feedback";
+    "SEND_READ_RECEIPTS_IN_MESSAGES" = "Verstuur gelezen ontvangstbewijzen in berichten";
+    "READ_RECEIPTS_NONE" = "Geen";
+    "READ_RECEIPTS_EXPAND" = "Op vergroting";
+    "READ_RECEIPTS_REPLY" = "Op antwoord";
+    "TROUBLESHOOTING" = "Probleemoplossing";
+    "RESET_SETTINGS_AND_RESPRING" = "Herstel instellingen en herspring";
+    "RESET_PROMPT" = "Ben je zeker dat je de instellingen wilt resetten en herspringen?";
+    "RESET_CONFIRM" = "Ja!";
+    "RESET_CANCEL" = "Annuleren";
+    
+    //New settings
+	"HIDE_UNLESS_EXPANDED" = "Verberg tenzij vergroot";
+}

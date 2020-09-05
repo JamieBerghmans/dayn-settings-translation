@@ -1,0 +1,17 @@
+{
+    "ENABLE_RESPRING_REQUIRED" = "activează (necesită repornirea)";
+    "COLOR_AUTO" = "automatmatmat";
+    "COLOR_DARK" = "întunecat";
+    "COLOR_LIGHT" = "luminos";
+    "COLOR_BLACK" = "negru";
+    "SETTINGS" = "Setări";
+    "APPEARANCE" = "Aspect";
+    "FONT_SETTINGS" = "Setări de font";
+    "PROFILE_PICTURES" = "Poză de profil";
+    "TINY_BANNER" = "Banner mic";
+    "MISCELLANEOUS" = "Diverse";
+    "TEST_DAYN" = "Testează Dayn";
+    "TESTBANNER" = "Testează banner";
+    "DEVELOPERS" = "Dezvoltatori";
+    "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
+}

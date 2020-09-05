@@ -1,0 +1,17 @@
+{
+    "ENABLE_RESPRING_REQUIRED" = "تمكين (يطلب إعادة  تشغيل سريع)";
+    "COLOR_AUTO" = "تلقائي";
+    "COLOR_DARK" = "داكن";
+    "COLOR_LIGHT" = "فاتح";
+    "COLOR_BLACK" = "أسود";
+    "SETTINGS" = "الإعدادت";
+    "APPEARANCE" = "مظهر خارجي";
+    "FONT_SETTINGS" = "إعدادات الخط";
+    "PROFILE_PICTURES" = "الصور الرمزية";
+    "TINY_BANNER" = "شعار صغير";
+    "MISCELLANEOUS" = "متنوع";
+    "TEST_DAYN" = "تجربة Dayn";
+    "TESTBANNER" = "تجربة شعار";
+    "DEVELOPERS" = "المطورين";
+    "FOOTER" = "Dayn by JannikCrack &amp; Devvix made with ♥";
+}

@@ -1,0 +1,16 @@
+{
+    "SWITCHES" = "سوویچ ها";
+    "HAPIC_FEEDBACK" = "بازخورد هپتیک (ویبره)";
+    "SEND_READ_RECEIPTS_IN_MESSAGES" = "ارسال رسید خواندن پیغام در ای مسیج";
+    "READ_RECEIPTS_NONE" = "هیچ";
+    "READ_RECEIPTS_EXPAND" = "در حالت توسعه داده شده";
+    "READ_RECEIPTS_REPLY" = "در حالت ریپلای";
+    "TROUBLESHOOTING" = "عیب یابی";
+    "RESET_SETTINGS_AND_RESPRING" = "ریست کردن تنظیمات توییک و رسپرینگ";
+    "RESET_PROMPT" = "ایا مطمئن هستید که میخواهید تنظیمات توییک را ریست و سپس رسپرینگ کنید  ؟";
+    "RESET_CONFIRM" = "بله";
+    "RESET_CANCEL" = "کنسل";
+    
+    //New settings
+	"HIDE_UNLESS_EXPANDED" = "مخفی بودن به جز حالت توسعه داده شده";
+}

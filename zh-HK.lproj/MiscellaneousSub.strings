@@ -1,0 +1,16 @@
+{
+    "SWITCHES" = "開關";
+    "HAPIC_FEEDBACK" = "觸覺反饋";
+    "SEND_READ_RECEIPTS_IN_MESSAGES" = "發送訊息中的已讀回執";
+    "READ_RECEIPTS_NONE" = "無";
+    "READ_RECEIPTS_EXPAND" = "在擴展";
+    "READ_RECEIPTS_REPLY" = "回覆時";
+    "TROUBLESHOOTING" = "故障排除";
+    "RESET_SETTINGS_AND_RESPRING" = "重置設置並註銷";
+    "RESET_PROMPT" = "您確定要重置設置並註銷嗎？";
+    "RESET_CONFIRM" = "是的";
+    "RESET_CANCEL" = "取消";
+    
+    //New settings
+	"HIDE_UNLESS_EXPANDED" = "隱藏，除非擴展";
+}
