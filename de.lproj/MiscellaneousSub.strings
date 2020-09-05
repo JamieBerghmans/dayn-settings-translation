@@ -1,12 +1,13 @@
-
-    "SWITCHES" = "Schalter";
-    "HAPIC_FEEDBACK" = "Haptisches Feedback";
-    "SEND_READ_RECEIPTS_IN_MESSAGES" = "Senden Sie Lesebestätigungen in Nachrichten";
-    "READ_RECEIPTS_NONE" = "keine";
-    "READ_RECEIPTS_EXPAND" = "beim erweitern";
-    "READ_RECEIPTS_REPLY" = "beim Antworten";
-    "TROUBLESHOOTING" = "Fehlerbehebung";
-    "RESET_SETTINGS_AND_RESPRING" = "Einstellungen zurücksetzen und Respring durchführen";
-    "RESET_PROMPT" = "Sind Sie sich sicher, dass Sie einen Respring durchführen wollen?";
-    "RESET_CONFIRM" = "Ja!";
-    "RESET_CANCEL" = "Abbrechen";
+"SWITCHES" = "Schalter";
+"HAPIC_FEEDBACK" = "Haptisches Feedback";
+"SEND_READ_RECEIPTS_IN_MESSAGES" = "Senden Sie Lesebestätigungen in Nachrichten";
+"READ_RECEIPTS_NONE" = "keine";
+"READ_RECEIPTS_EXPAND" = "beim erweitern";
+"READ_RECEIPTS_REPLY" = "beim Antworten";
+"TROUBLESHOOTING" = "Fehlerbehebung";
+"RESET_SETTINGS_AND_RESPRING" = "Einstellungen zurücksetzen und Respring durchführen";
+"RESET_PROMPT" = "Sind Sie sich sicher, dass Sie einen Respring durchführen wollen?";
+"RESET_CONFIRM" = "Ja!";
+"RESET_CANCEL" = "Abbrechen";
+    //New settings
+"HIDE_UNLESS_EXPANDED" = "ausblenden, wenn nicht erweitert";
